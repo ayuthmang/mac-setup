@@ -13,5 +13,5 @@
 1. Open System Settings
 2. Click the Accessibility tab
 3. Click the "Trackpad Options" button
-4. Enable the checkbox "Use trackpad for dragging
+4. Enable the checkbox "Use trackpad for dragging"
    - Dragging style -> Three Finger Drag
