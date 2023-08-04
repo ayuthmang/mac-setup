@@ -13,3 +13,14 @@
 3. Click the "Trackpad Options" button
 4. Enable the checkbox "Use trackpad for dragging"
    - Dragging style -> Three Finger Drag
+
+### Install necessary applications
+
+1. Install [Homebrew](https://brew.sh/).
+2. Install these applications:
+   - Tap the `homebrew-cask` via:
+      - `brew tap homebrew/cask-versions`
+   - Install essential apps:
+      - `brew install --cask 1password brave-browser raycast`.
+   - Install development apps
+      - `brew install --cask visual-studio-code`.
