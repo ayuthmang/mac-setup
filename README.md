@@ -24,3 +24,24 @@
       - `brew install --cask 1password brave-browser raycast`.
    - Install development apps
       - `brew install --cask visual-studio-code`.
+
+### Configurations
+
+#### 
+
+#### 1Password
+
+👉 Config Password for [1Password for SSH & Git](https://developer.1password.com/docs/ssh/).
+
+#### Raycast
+
+Replace spotlight search with raycast
+
+1. Open System Settings
+2. Click the Keyboard tab
+3. Click the Keyboard Shortcuts... button
+4. Click the Spotlight tab
+5. Uncheck following:
+   - [ ] Show Spotlight search
+   - [ ] Show Finder search window
+6. Click Done
