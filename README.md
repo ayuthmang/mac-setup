@@ -29,6 +29,8 @@
 
 #### Change the default input sources
 
+![preview of keyboard input sources](./docs/settings-keyboard-input-sources.png)
+
 Since we have been using the Caps Lock key for changing the language input.
 And the default key binding for input sources is conflicted with the auto-completion for development purposes (e.g., VS Code) hence we need to disable those keys via:
 
@@ -47,7 +49,9 @@ And the default key binding for input sources is conflicted with the auto-comple
 
 #### Raycast
 
-Replace spotlight search with raycast via:
+![preview of keyboard input sources](./docs/settings-keyboard-spotlight.png)
+
+Replace spotlight search with Raycast via:
 
 1. Open System Settings
 2. Click the Keyboard tab
