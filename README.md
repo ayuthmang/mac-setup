@@ -1,5 +1,7 @@
 # mac-setup
 
+A walkthrough step-by-step setup of my macOS settings and essential apps.
+
 ## Trackpad Setup
 
 ![all trackpad setting](./docs/trackpad-setting-all.png)
