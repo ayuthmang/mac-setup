@@ -27,7 +27,19 @@
 
 ### Configurations
 
-#### 
+#### Change the default input sources
+
+Since we have been using the Caps Lock key for changing the language input.
+And the default key binding for input sources is conflicted with the auto-completion for development purposes (e.g., VS Code) hence we need to disable those keys via:
+
+1. Open System Settings
+2. Click the Keyboard tab
+3. Click the Keyboard Shortcuts... button
+4. Click the Input Sources tab
+5. Uncheck the following:
+   - [ ] Select the previous input source
+   - [ ] Select next source in input menu
+6. Click Done
 
 #### 1Password
 
@@ -35,13 +47,14 @@
 
 #### Raycast
 
-Replace spotlight search with raycast
+Replace spotlight search with raycast via:
 
 1. Open System Settings
 2. Click the Keyboard tab
 3. Click the Keyboard Shortcuts... button
 4. Click the Spotlight tab
-5. Uncheck following:
+5. Uncheck the following:
    - [ ] Show Spotlight search
    - [ ] Show Finder search window
 6. Click Done
+
