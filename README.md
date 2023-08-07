@@ -29,6 +29,23 @@ A walkthrough step-by-step setup of my macOS settings and essential apps.
 
 ### Configurations
 
+
+#### Keyboard
+
+Enable key a repeating via:
+
+```bash
+defaults write -g ApplePressAndHoldEnabled -bool false
+```
+
+the contrast command:
+
+```bash
+defaults write -g ApplePressAndHoldEnabled -bool true
+```
+
+then restart the os.
+
 #### Change the default input sources
 
 ![preview of keyboard input sources](./docs/settings-keyboard-input-sources.png)
