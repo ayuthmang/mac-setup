@@ -29,6 +29,17 @@ A walkthrough step-by-step setup of my macOS settings and essential apps.
 
 ### Configurations
 
+#### Dotfiles
+
+1. Install `chezmoi` via:
+   ```bash
+   $ brew install chezmoi
+   ```
+2. Point the chezmoi to your dotfiles repository
+   ```bash
+   $ chezmoi init --apply https://github.com/$GITHUB_USERNAME/dotfiles.git
+   ```
+3. All dotfiles will be pulled. After that just restart the shell or install required executables.
 
 #### Keyboard
 
