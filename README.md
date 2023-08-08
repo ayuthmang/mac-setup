@@ -98,3 +98,20 @@ Replace spotlight search with Raycast via:
    - [ ] Show Spotlight search
    - [ ] Show Finder search window
 6. Click Done
+
+
+## Useful snippets
+
+### Install third-party applications
+
+To install third-party apps from outside the AppStore we need to disable Gatekeeper:
+
+```bash
+sudo spctl --master-disable
+```
+
+re-enabled it:
+
+```bash
+sudo spctl --master-enable
+```
