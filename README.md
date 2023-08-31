@@ -59,6 +59,8 @@ And the default key binding for input sources is conflicted with the auto-comple
 
 Some keyboards natively support Windows not macOS. So we need to re-map the key for use with macOS.
 
+![preview of keyboard external key mapping](./docs/settings-keyboard-external-key-mapping.png)
+
 1. Open System Settings
 2. Click the Keyboard tab
 3. Click the Modifier Keys
@@ -66,6 +68,8 @@ Some keyboards natively support Windows not macOS. So we need to re-map the key 
 5. Change these option
    - Option (⌥) key -> ⌘ Command
    - Command (⌘) key -> ⌥ Option
+6. Click Done and test your keyboard
+
 ## Essential applications
 
 1. Install [Homebrew](https://brew.sh/).
