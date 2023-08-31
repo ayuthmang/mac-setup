@@ -55,6 +55,17 @@ And the default key binding for input sources is conflicted with the auto-comple
    - [ ] Select next source in input menu
 6. Click Done
 
+#### External keyboard key mapping
+
+Some keyboards natively support Windows not macOS. So we need to re-map the key for use with macOS.
+
+1. Open System Settings
+2. Click the Keyboard tab
+3. Click the Modifier Keys
+4. Change the select option to match your keyboard
+5. Change these option
+   - Option (⌥) key -> ⌘ Command
+   - Command (⌘) key -> ⌥ Option
 ## Essential applications
 
 1. Install [Homebrew](https://brew.sh/).
@@ -98,7 +109,6 @@ Replace spotlight search with Raycast via:
    - [ ] Show Spotlight search
    - [ ] Show Finder search window
 6. Click Done
-
 
 ## Useful snippets
 
