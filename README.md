@@ -4,6 +4,13 @@ A walkthrough step-by-step setup of my macOS settings and essential apps.
 
 ## macOS specific setup
 
+### Calendar
+
+1. Open System Settings
+2. Click the Language and Region Tab
+3. Select the calendar in the current opened page.
+4. Change from "Buddhist" to "Gregorian".
+
 ### Trackpad
 
 ![all trackpad setting](./docs/trackpad-setting-all.png)
